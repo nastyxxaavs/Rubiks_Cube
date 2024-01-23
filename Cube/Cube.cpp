@@ -1,4 +1,4 @@
-#include "cube.h"
+#include "Cube.h"
 
 Cube::Cube() {
     for (int i = 0; i < 6; i++) {
