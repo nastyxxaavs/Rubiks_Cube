@@ -1,5 +1,5 @@
-#include "Algo.h"
-#include "cube.h"
+#include "Algorithm.h"
+#include "Cube.h"
 
 
 void Algo::Solve(Cube& Cube) {
